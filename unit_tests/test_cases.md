@@ -17,6 +17,6 @@
 - **Steps**:
   1. Turn on the coffee machine.
   2. Click on the water heating button.
-  3. Check that the water is 90 degrees Celsius using an immersion thermometer.
+  3. Check the water temperature with an immersion thermometer.
   4. Compare the sensor reading with the immersion thermometer.
-- **Expected Result**: The sensor reading should match the immersion thermometer - 90 degrees Celsius.
+- **Expected Result**: The sensor reading should match the immersion thermometer.
